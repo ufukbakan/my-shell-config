@@ -3,3 +3,4 @@ requirements:
   - jdk8
   - chocolatey
   - oh-my-posh
+  - nodejs & pnpm
